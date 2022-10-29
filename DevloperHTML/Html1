@@ -1,0 +1,33 @@
+<html>
+<body>
+<div>
+un<input type="text"><br><br>
+pwd<input type = "password">
+</div>
+male<input type="radio">
+female<input type = "radio">
+</div><br><br>
+
+<div>
+<a href = "www.21maybacth.com">link1</a><br><br>
+<a href = "www.21maybacth2.com">link2</a><br><br>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
